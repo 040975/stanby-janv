@@ -1,0 +1,125 @@
+#navbar{
+  background-color: rgb(14,27,35);
+  color:white;
+  border-bottom:none;
+
+}
+#container{
+  border:1px solid black;
+  width:100%;
+text-align: center;
+  background-image: url("../img/images.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+   background-size: cover;
+   position:absolute;
+
+
+
+}
+
+#container1{
+ margin-bottom:200px!important;
+  margin-top:130px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  /*background-color:rgb(0,0,0);*/
+  background-image: url("../img/par.gif")!important;
+
+  padding-top:5px;
+}
+p{
+  text-align: center;
+}
+
+}
+#container9{
+ border:solid black 1px;
+  height:90px;
+  width:50%;
+  text-align: center;
+  margin-top:10px!important;
+
+}
+span{
+  width:10%;
+  background-color:rgb(184,202,212);
+}
+
+#para {
+  width:50%;
+  height:300px;
+  /*border:15px double black;*/
+  margin:auto;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  /*background-color:rgb(0,0,0);*/
+  background-image: url("../img/par.gif")!important;
+  float:right;
+  margin-right:0%;
+
+  color:black;
+  padding:40px 20px 20px 20px!important;
+position: relative;
+}
+#container3 h2{
+margin-top:200px!important;
+}
+
+
+
+#container4{
+  margin-top:100px;
+
+}
+#container5{
+  width:25%;
+  text-align: center;
+  margin:auto;
+  color:black;
+
+
+}
+
+h1{
+margin-top:100px;
+text-align:center;
+color:black!important;
+}
+h2 {
+  margin-bottom:200px!important;
+  text-align:center;
+  color:black!important;
+}
+h5{
+  margin-top:100px!important;
+  margin-left:50%;
+  position:relative;
+  color:black!important;
+
+  }
+#form{
+margin-left:1px;
+background-color: transparent;
+color:black!important;
+}
+input{
+  width:40%;
+
+}
+label{
+padding-top: 5px;
+  color:black;
+}
+#myButton{
+  background-color: rgb(14,31,41);
+}
+#submit{
+  color:grey;
+}
+#para1,#para2,#para3,#para4{
+  z-index: 100;
+}
